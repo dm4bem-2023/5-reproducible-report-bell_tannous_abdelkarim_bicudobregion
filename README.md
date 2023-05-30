@@ -7,4 +7,4 @@ Please note that all code in this project has been based on code provided in cgh
 
 "dm4em_finalcode.py" contains the full solution to all four sections, and can be accessed through the Jupyter notebook in MyBinder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem-2023/4-simulate-response-to-weather-bell_tannous_abdelkarim_bicudobregion/HEAD)
+
