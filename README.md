@@ -4,3 +4,5 @@
 ### 30/05/2023
 
 Please note that all code in this project has been based on code provided in cghiaus/dm4em Tutorial 3, and then adapted for use in a two room model, with incident sunlight, two windows, and an HVAC system.
+
+"dm4em_finalcode.py" contains the full solution to all four sections, and can be accessed through the Jupyter notebook in MyBinder.
